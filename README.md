@@ -355,24 +355,7 @@ La aplicación genera logs detallados en consola:
 - ✅ Solo tipos de archivo permitidos (JPG, PNG)
 - ✅ Manejo seguro de excepciones
 
-## 🎯 Próximos Pasos (Fase 2)
 
-- [ ] Agregar tests unitarios e integración
-- [ ] Implementar caché de resultados
-- [ ] Agregar soporte para DNI reverso
-- [ ] Validación cruzada de datos
-- [ ] Almacenamiento de resultados en BD
-- [ ] API de consulta histórica
-- [ ] Métricas y monitoreo
-- [ ] Dockerización
-
-## 📄 Licencia
-
-Este es un proyecto MVP para demostración.
-
-## 👨‍💻 Autor
-
-Desarrollado como MVP backend profesional para escaneo de DNI argentinos.
 
 ---
 
